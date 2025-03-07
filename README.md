@@ -1,3 +1,5 @@
+注意:对php在apine下编译问题的处理方案，将它的dockerfile换成debian下的处理 ，具体明细看php74的dockerfile构建文件
+
 ![images](images/docker-composer-lnmp.png)
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
